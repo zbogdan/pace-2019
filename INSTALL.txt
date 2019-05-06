@@ -1,1 +1,3 @@
 g++ -O3 sor-stdout.cpp
+
+Only dynamic bitset from Boost library is needed as external requirement.
