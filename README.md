@@ -1,1 +1,1 @@
-# pace-2019
+# Vertex Cover Exact, PACE Challenge 2019
